@@ -18,8 +18,6 @@ The program takes a scenario file. It lists aircraft and their started coordinat
 
 *This is the first project of the Java branch at School 42.*
 
-**Detailed description of the task: [avaj-launcher.en.pdf](https://github.com/dstepanets/Avaj-Launcher/blob/master/doc/avaj-launcher.en.pdf)**
-
 ## Usage
 
 Compile and run the program with the script **RUN.sh**. A program takes a path to a scenario file as a single parameter. By default, it looks for *scenario.txt* in the *src* dir. 
